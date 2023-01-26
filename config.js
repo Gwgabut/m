@@ -3,14 +3,14 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['62895327934887'] 
+global.owner = ['6283833342559'] 
 global.mods = [] 
-global.prems = [] 
-global.kontak = ['62895327934887']
+global.prems = ['6283833342559'] 
+global.kontak = ['6283833342559']
 
 //  INFO BOT 
 global.naown = 'KRIZYN OFC'
-global.noown = '62895327934887'
+global.noown = '6283833342559'
 global.namebot = 'FORYN FOUR'
 global.nobot = '6289502319715'
 
